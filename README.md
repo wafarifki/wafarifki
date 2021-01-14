@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 , I'm Wafa Rifqi Anafin!
+junior Website Designer & Website Developer from indonesia.
+
+### Let's connect with me!
+<p>
+    <a href="https://wafarifki.tk" target="blank"><img src="https://img.shields.io/badge/Website-https://wafarifki.tk-blue?" /></a>
+    <a href="https://www.linkedin.com/in/wafa-rifqi-anafin-553b591b7/" target="blank"><img src="https://img.shields.io/badge/Linkedin-WafaRifkiAnafin_-blue" /></a>
+    <a href="https://facebook.com/bekasiHACKERlive" target="blank"><img src="https://img.shields.io/badge/Facebook-bekasiHACKERlive-blue" /></a>
+    <a href="https://https://instagram.com/wafarifki_" target="blank"><img src="https://img.shields.io/badge/Instagram-@wafarifki_-blue" /></a>
+</p>
 
 <!--
 **wafarifki/wafarifki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
