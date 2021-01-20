@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Wafa Rifqi Anafin!
+### Hi there 👋 , I'm Wafa Rifki Anafin!
 junior Website Designer & Website Developer from indonesia.
 
 ### Let's connect with me!
