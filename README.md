@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Wafa Rifki Anafin!
-junior Website Designer & Website Developer from indonesia.
+Website Designer & Frontend Developer from indonesia.
 
 ### Let's connect with me!
 <p>
