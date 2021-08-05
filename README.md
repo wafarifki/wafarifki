@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/wafarifki/wafarifki/main/frame.png" style="width:100%;">
+
 ### Hi there 👋 , I'm Wafa Rifki Anafin!
 Website Designer & Frontend Developer from indonesia.
 
@@ -7,6 +9,7 @@ Website Designer & Frontend Developer from indonesia.
     <a href="https://www.linkedin.com/in/wafa-rifqi-anafin-553b591b7/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-WafaRifkiAnafin_-blue" /></a>
     <a href="https://facebook.com/wafarifkianafin" target="_blank"><img src="https://img.shields.io/badge/Facebook-wafarifkianafin-blue" /></a>
     <a href="https://instagram.com/wafarifki_" target="_blank"><img src="https://img.shields.io/badge/Instagram-@wafarifki_-blue" /></a>
+    <a href="https://github.com/wafarifki/wafarifki/raw/main/CV_WafaRifqiAnafin.pdf" target="_blank"><img src="https://img.shields.io/badge/Download-CV_-blue" /></a>
 </p>
 
 <!--
