@@ -12,7 +12,11 @@ Website Designer & Frontend Developer from indonesia.
     <a href="https://github.com/wafarifki/wafarifki/raw/main/CV_WafaRifqiAnafin.pdf" target="_blank"><img src="https://img.shields.io/badge/Download-CV_-blue" /></a>
 </p>
 
+[![@wafarifki's Holopin board](https://holopin.io/api/user/board?user=wafarifki)](https://holopin.io/@wafarifki)
+
   <img src="https://github-readme-stats.vercel.app/api/?username=wafarifki&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  
+  
 
 <!--
 **wafarifki/wafarifki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
