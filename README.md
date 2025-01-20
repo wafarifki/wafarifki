@@ -16,9 +16,7 @@ Website Designer & Frontend Developer from indonesia.
 
 [![An image of @wafarifki's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wafarifki)](https://holopin.io/@wafarifki)
 
-  <img src="https://github-readme-stats.vercel.app/api/?username=wafarifki&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000;width:100%;" alt="github stats"/>
-  
-  
+  <img src="https://github-readme-stats.vercel.app/api/?username=wafarifki&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000;width:100%;min-width:100%;max-width:100%;display:block;" alt="github stats"/>
 
 <!--
 **wafarifki/wafarifki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
