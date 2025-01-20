@@ -14,7 +14,7 @@ Website Designer & Frontend Developer from indonesia.
     <a href="https://github.com/sponsors/wafarifki/card" target="_blank"><img src="https://img.shields.io/badge/Give_Me_Your_-Sponsor-pink" /></a>
 </p>
 
-[![@wafarifki's Holopin board](https://holopin.io/api/user/board?user=wafarifki)](https://holopin.io/@wafarifki)
+[![An image of @wafarifki's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wafarifki)](https://holopin.io/@wafarifki)
 
   <img src="https://github-readme-stats.vercel.app/api/?username=wafarifki&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000;width:100%;" alt="github stats"/>
   
