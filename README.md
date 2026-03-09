@@ -18,8 +18,6 @@ Website Designer & Frontend Developer from indonesia.
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wafarifki&theme=chartreuse_dark)
 
-  <img src="https://stats-cards.toil.cc/v1/top-langs/github?username=wafarifki&theme=catppuccin-mocha&layout=compact" alt="Languages (GitHub)" />
-
 <!--
 **wafarifki/wafarifki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
